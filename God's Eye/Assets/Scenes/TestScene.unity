@@ -956,7 +956,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a0d9caafc0b94a4587d6cc9aa9ebbbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiKey: 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
+  apiKey: 
 --- !u!4 &1203837771
 Transform:
   m_ObjectHideFlags: 0
