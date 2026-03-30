@@ -79,3 +79,33 @@ God's Eye/*.mdb
 God's Eye/*.opendb
 God's Eye/*.VC.db
 
+# Unity auto-generated
+Library/
+Temp/
+obj/
+Logs/
+Build/
+Builds/
+UserSettings/
+*.suo
+*.user
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+# Unity auto-generated
+Library/
+Temp/
+obj/
+Logs/
+Build/
+Builds/
+UserSettings/
+*.suo
+*.user
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
